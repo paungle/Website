@@ -20,13 +20,13 @@ projects:
 # - "Abstract"
 publishDate: "2023-11-01T00:00:00Z"
 #slides: example
-summary: Differences in A1c results that are initially meaningless become meaningful depending on the diagnostic label.
+summary: Differences in A1c results that are initially meaningless become meaningful depending on the initial diagnostic label.
 tags:
 #- Source Themes
 title: "The borderline effect in diabetes: when no difference makes a difference"
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: '#'
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: "/publication/borderline-effect/borderlineEffect.PDF"
 #url_poster: '#'
 #url_project: ""
 #url_slides: ""
