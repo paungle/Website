@@ -26,7 +26,7 @@ summary: More wound healing followed greater perceived time and less wound heali
 title: Physical healing as a function of perceived time
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: '#'
-url_pdf: "pdf/Perceived time and wound healing.pdf"
+url_pdf: "publication/wound-healing/Perceived time and wound healing.pdf"
 # url_poster: '#'
 # url_project: ""
 # url_slides: ""
