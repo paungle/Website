@@ -14,9 +14,9 @@ education:
 first_name: Peter
 highlight_name: true
 interests:
-- Psychological influences on physical health
+- Health psychology
 - Embodied models of health
-- Physical effects of attention, beliefs, expectations
+- Placebo effects
 last_name: Aungle
 name_pronunciation: Peter Aungle
 organizations:
