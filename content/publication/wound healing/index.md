@@ -14,10 +14,10 @@ image:
 #  url: https://peteraungle.rbind.io/publication/'
 projects:
 - internal-project
-publication: ""
-publication_short: ""
-publication_types:
-- abstract
+#publication: ""
+#publication_short: ""
+#publication_types:
+#- 
 publishDate: "2023-11-01T00:00:00Z"
 # slides: example
 summary: More wound healing followed greater perceived time and less wound healing followed less perceived time, even though elapsed time was always equal.
