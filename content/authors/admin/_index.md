@@ -14,9 +14,9 @@ education:
 first_name: Peter
 highlight_name: true
 interests:
-- Positive psychology
-- Embodied mental models
-- The interpersonal self
+- Psychological influences on physical health
+- Embodied models of health
+- Physical effects of attention, beliefs, expectations
 last_name: Aungle
 name_pronunciation: Peter Aungle
 organizations:
