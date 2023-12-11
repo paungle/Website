@@ -14,10 +14,10 @@ links:
 #  url: http://example.org
 projects:
 - internal-project
-publication: ""
-publication_short: ""
-publication_types:
-- "Working Paper"
+#publication: ""
+#publication_short: ""
+#publication_types:
+#- "Working Paper"
 publishDate: "2023-10-01T00:00:00Z"
 #slides: example
 summary: 'More than 50% of people who experience interpersonal conflicts at work fail to address them. Across four studies we find that expressing anger or sadness is highly effective, and sadness in particular carries few interpersonal costs.'
