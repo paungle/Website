@@ -3,7 +3,7 @@ abstract: In this study we wounded study participants following a standardized p
 authors:
 - Peter Aungle and Ellen Langer
 date: "12-16-23"
-doi: ""
+doi: "https://doi.org/10.1038/s41598-023-50009-3"
 featured: true
 image:
   caption: 'Image credit: [**ChatGPT**](https://chat.openai.com)'
@@ -30,6 +30,6 @@ url_pdf: "publication/wound-healing/Perceived time and wound healing.pdf"
 # url_poster: '#'
 # url_project: ""
 # url_slides: ""
-# url_source: '#'
+url_source: 'woundhealing.bib'
 #url_video: '#'
 ---
