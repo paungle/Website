@@ -30,6 +30,6 @@ url_pdf: "publication/wound-healing/Perceived time and wound healing.pdf"
 # url_poster: '#'
 # url_project: ""
 # url_slides: ""
-#url_source: "woundhealing.bib"
+#url_source: "#"
 #url_video: '#'
 ---
