@@ -21,7 +21,7 @@ projects:
 publishDate: "2023-10-01T00:00:00Z"
 #slides: example
 summary: 'More than 50% of people who experience interpersonal conflicts at work fail to address them. Across four studies we find that expressing anger or sadness is highly effective, and sadness in particular carries few interpersonal costs.'
-tags:
+#tags:
 #- Source Themes
 title: 'A Little Goes a Long Way: Expressing Negative Emotion to Address Workplace Conflict'
 
