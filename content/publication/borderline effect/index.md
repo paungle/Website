@@ -3,7 +3,7 @@ abstract: We hypothesized that people at the borderline of being labeled as “p
 authors:
 - Peter Aungle and Ellen Langer
 date: "Under Review"
-doi: "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1333248/full"
+doi: "https://doi.org/10.3389/fpsyg.2024.1333248"
 featured: true
 image:
   caption: 'Image credit: [**ChatGPT**](https://chat.openai.com)'
