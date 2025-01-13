@@ -4,7 +4,7 @@ authors:
 - Peter Aungle
 date: "In prep"
 #doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**ChatGPT**](https://chat.openai.com)'
   focal_point: ""
