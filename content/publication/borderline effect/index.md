@@ -2,7 +2,7 @@
 abstract: We hypothesized that people at the borderline of being labeled as “prediabetic” based on A1c blood test results, who initially face equivalent risks of developing diabetes but who are labeled diferently, would be more likely to develop diabetes when labeled as “prediabetic” as a result of the label. Study 1 served to establish the psychological efect of the prediabetes label. We surveyed 260 participants on Amazon Mechanical Turk to test whether risk perception significantly increased when comparing A1c test results that difered by 0.1% and led to diferent diagnostic labels (5.6 and 5.7%) but did not significantly increase when comparing those that difered by 0.1% but received the same label (5.5%/5.6 and 5.7%/5.8%). Study 2 explored whether labels are associated with diferent rates of developing diabetes when the initial diference in A1c results suggests equivalent risk. Using data from 8,096 patients, we compared patients whose initial A1c results difered by 0.1% and found those who received results labeled as prediabetic (A1c of 5.7%) were significantly more likely to develop diabetes than patients whose initial results were labeled as normal (5.6%). In contrast, patients whose initial results difered by 0.1% but who received the same “normal” label (5.5 and 5.6%) were equally likely to develop diabetes. These preliminary results suggest that diagnostic labels may become self-fulfilling, especially when the underlying pathology of patients receiving diferent labels does not meaningfully difer.
 authors:
 - Peter Aungle and Ellen Langer
-date: "Under Review"
+date: "05-02-24"
 doi: "https://doi.org/10.3389/fpsyg.2024.1333248"
 featured: true
 image:
