@@ -16,5 +16,5 @@ projects:
 publishDate: "2024-01-12T00:00:00Z"
 summary: 'Exploring the profound impact of our thoughts on our health, this article delves into the science behind how attention, beliefs, and expectations shape physical health over time, using evidence from our research.'
 title: 'How Much Do Our Thoughts Shape Our Health?'
-url_pdf: 'publication/scientific american/How Much Do Our Thoughts Shape Our Health_ _ Scientific American.pdf'
+#url_pdf: 'publication/scientific american/How Much Do Our Thoughts Shape Our Health_ _ Scientific American.pdf'
 ---
