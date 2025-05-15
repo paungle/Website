@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Experimental Psychology
     institution: Harvard University
-    year: 2025
+    year: 2026
   - course: AM in Experimental Psychology
     institution: Harvard University
     year: 2022
