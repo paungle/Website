@@ -14,7 +14,7 @@ image:
 projects:
 - internal-project
 publishDate: "2025-01-12T00:00:00Z"
-summary: 'This paper introduces the Embodied Models of Health framework for understanding mind-body unity and the effect of mindsets on health outcomes, delving into the science behind how attention, beliefs, and expectations shape physical health over time.'
+summary: 'Gelman and Brown’s 2024 critique of our paper on perceived time and physical healing exemplifies how selective reasoning and misrepresentation of methods, literature, and broader research can distort credible mind-body science.'
 title: 'Beyond Statistical Myopia: Replying to a Misguided Critique of Mind-Body Research'
 url_pdf: 'https://drive.google.com/file/d/1advItLHGojG1D4mIGooQLC6Digokz0KN/view'
 ---
