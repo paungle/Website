@@ -16,5 +16,5 @@ projects:
 publishDate: "2025-01-12T00:00:00Z"
 summary: 'Gelman and Brown’s 2024 critique of our paper on perceived time and physical healing exemplifies how selective reasoning and misrepresentation of methods, literature, and broader research can distort credible mind-body science.'
 title: 'Beyond Statistical Myopia: Replying to a Misguided Critique of Mind-Body Research'
-url_pdf: 'https://drive.google.com/file/d/1advItLHGojG1D4mIGooQLC6Digokz0KN/view'
+url_pdf: 'https://osf.io/preprints/psyarxiv/mgw73_v1'
 ---

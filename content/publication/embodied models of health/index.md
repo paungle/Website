@@ -16,5 +16,5 @@ projects:
 publishDate: "2025-01-12T00:00:00Z"
 summary: 'This paper introduces the Embodied Models of Health framework for understanding mind-body unity and the effect of mindsets on health outcomes, delving into the science behind how attention, beliefs, and expectations shape physical health over time.'
 title: 'Embodied Models of Health: How attention, beliefs, and expectations interact to shape health over time'
-#url_pdf: ''
+url_pdf: 'https://osf.io/preprints/psyarxiv/ubtxw_v1'
 ---
