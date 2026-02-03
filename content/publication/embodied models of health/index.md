@@ -3,7 +3,7 @@ abstract: "This paper explores the concept of health mindsets and their effect o
 authors:
 - Peter Aungle
 date: "2026-01-27"
-featured: false
+featured: true
 image:
   caption: 'Image credit: [**Peter Aungle**](https://peteraungle.rbind.io/)'
   focal_point: ""
