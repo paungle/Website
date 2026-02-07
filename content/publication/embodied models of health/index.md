@@ -5,7 +5,7 @@ authors:
 date: "2026-01-27"
 featured: true
 image:
-  caption: 'Image credit: [**Peter Aungle**](https://peteraungle.rbind.io/)'
+  caption: 'Image credit: [**ChatGPT**](https://chat.openai.com/)'
   focal_point: ""
   preview_only: false
 #links:
