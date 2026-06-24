@@ -78,7 +78,7 @@ social:
 #  link: https://github.com/paungle/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/peter-aungle-886722126
+  link: https://www.linkedin.com/in/peter-aungle-ph-d-886722126/
 # - icon: cv
 #  icon_pack: ai
 #  link: uploads/Peter Aungle CV.pdf
