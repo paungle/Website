@@ -22,7 +22,7 @@ name_pronunciation: Peter Aungle
 organizations:
 - name: Harvard University
   url: https://psychology.fas.harvard.edu/people/peter-j-aungle
-role: PhD Student in Psychology
+role: Post Doctoral Researcher in Psychology
 skills:
 - items:
   - description: ""
