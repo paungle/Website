@@ -18,5 +18,5 @@ publication: 'Academy of Management Proceedings'
 publishDate: "2026-07-17T00:00:00Z"
 summary: 'Across two experiments on workplace conflict, tempered sadness achieved roughly 90% of calm anger''s perceived effectiveness while matching it on appropriateness and exceeding it on likability, and withholding emotion was rated least effective regardless of the rationale. Published in Academy of Management Proceedings.'
 title: 'The Surprising Power of Sadness in Workplace Conflict: When Vulnerability Outperforms Dominance'
-url_pdf: 'surprising_power_of_sadness.pdf'
+url_pdf: 'uploads/surprising_power_of_sadness.pdf'
 ---
