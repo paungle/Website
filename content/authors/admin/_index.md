@@ -86,7 +86,7 @@ status:
   icon: ☕️
 superuser: true
 ---
-I am a PhD candidate in Psychology at Harvard University. My research focuses on mind-body effects on health. I am particularly interested in attention, beliefs, and expectations and the ways in which they interact to influence physical health.
+I am a Post Doctoral Researcher in Psychology at Harvard University. My research focuses on mind-body effects on health. I am particularly interested in attention, beliefs, and expectations and the ways in which they interact to influence physical health.
 
 
 {style="text-align: justify;"}
