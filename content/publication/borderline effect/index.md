@@ -4,7 +4,7 @@ authors:
 - Peter Aungle and Ellen Langer
 date: "05-02-24"
 doi: "https://doi.org/10.3389/fpsyg.2024.1333248"
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**ChatGPT**](https://chat.openai.com)'
   focal_point: ""
