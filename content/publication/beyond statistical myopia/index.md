@@ -3,6 +3,7 @@ abstract: "In response to Gelman and Brown’s recent critique of Aungle and Lan
 authors:
 - Peter Aungle, Daniel Chen, and Nicholas Holmes
 date: "2026-01-06"
+doi: "10.1177/25152459261417257"
 featured: true
 image:
   caption: 'Image credit: [**ChatGPT**](https://chatgpt.com/)'

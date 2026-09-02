@@ -3,6 +3,7 @@ abstract: "In this article, we review the literature on placebo effects and its 
 authors:
 - Peter Aungle, Pierre-Marie Matta, Daniel Chen, and Ellen Langer
 date: "2026-01-27"
+doi: "10.31234/osf.io/ubtxw_v2"
 featured: true
 image:
   caption: 'Image credit: [**ChatGPT**](https://chat.openai.com/)'

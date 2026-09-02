@@ -3,7 +3,7 @@ abstract: "Workplace conflict creates an emotional dilemma: employees may need t
 authors:
 - Peter Aungle, Yushi Zhang, Viknesh Nagarathinam, Jacques Paradis, and Daniel Chen
 date: "2026-07-17"
-#doi: "10.5465/AMPROC.2026.21227abstract"
+doi: "10.5465/AMPROC.2026.21227abstract"
 featured: false
 image:
   caption: 'Image credit: [**ChatGPT**](https://chat.openai.com)'
