@@ -23,7 +23,7 @@ publication: 'Under review at *Mindfulness*'
 publishDate: "2026-09-07T00:00:00Z"
 summary: 'A commentary arguing that the factor-analytic evidence used to exclude Langerian mindfulness from a refined definition of mindfulness is weak evidence of conceptual independence, and that Kabat-Zinn and the current MBSR curriculum now foreground elements that closely parallel Langer''s account. Under review at Mindfulness.'
 title: 'Reconsidering the Exclusion of Langerian Mindfulness: A Commentary on Chems-Maarif et al. (2025)'
-url_pdf: 'langerian_mindfulness_commentary.pdf'
+url_pdf: '/publication/mindfulness-definition/langerian_mindfulness_commentary.pdf'
 #url_code: ""
 #url_dataset: '#'
 #url_poster: '#'
