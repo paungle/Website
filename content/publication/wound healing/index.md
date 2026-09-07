@@ -1,5 +1,5 @@
 ---
-abstract: In this study we wounded study participants following a standardized procedure and manipulated perceived time to test whether perceived time affected the rate of healing. We measured the amount of healing that occurred across three conditions using a within-subjects design - Slow Time (half as fast as clock time), Normal Time (clock time), and Fast Time (twice as fast as clock time). Based on the theory of mind-body unity – which posits simultaneous and bidirectional influences of mind on body and body on mind – we hypothesized that wounds would heal faster or slower when perceived time was manipulated to be experienced as longer or shorter respectively. Although the actual elapsed time was 28 minutes in all three conditions, significantly more healing was observed in the Normal Time condition compared to the Slow Time condition, in the Fast Time condition compared to the Normal Time condition, and in the Fast Time condition compared to the Slow Time condition. These results support the hypothesis that the effect of time on physical healing is directly affected by one’s psychological experience of time, independent of the actual elapsed time. 
+abstract: "In this study we wounded study participants following a standardized procedure and manipulated perceived time to test whether perceived time affected the rate of healing. We measured the amount of healing that occurred across three conditions using a within-subjects design: Slow Time (half as fast as clock time), Normal Time (clock time), and Fast Time (twice as fast as clock time). Based on the theory of mind–body unity—which posits simultaneous and bidirectional influences of mind on body and body on mind—we hypothesized that wounds would heal faster or slower when perceived time was manipulated to be experienced as longer or shorter respectively. Although the actual elapsed time was 28 min in all three conditions, significantly more healing was observed in the Normal Time condition compared to the Slow Time condition, in the Fast Time condition compared to the Normal Time condition, and in the Fast Time condition compared to the Slow Time condition. These results support the hypothesis that the effect of time on physical healing is directly affected by one’s psychological experience of time, independent of the actual elapsed time."
 authors:
 - Peter Aungle and Ellen Langer
 date: "12-16-23"
@@ -14,7 +14,7 @@ image:
 #  url: https://peteraungle.rbind.io/publication/'
 projects:
 - internal-project
-#publication: ""
+publication: '*Scientific Reports*'
 #publication_short: ""
 #publication_types:
 #- 

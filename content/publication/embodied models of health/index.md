@@ -14,6 +14,7 @@ image:
 #  url: https://www.scientificamerican.com/article/how-much-do-our-thoughts-shape-our-health/
 projects:
 - internal-project
+publication: 'Under review at *Perspectives on Psychological Science*'
 publishDate: "2025-01-12T00:00:00Z"
 summary: 'This paper introduces the Embodied Models of Health framework for understanding mind-body unity and the effect of mindsets on health outcomes, delving into the science behind how attention, beliefs, and expectations shape physical health over time.'
 title: 'Embodied Models of Health: A Theoretical Framework of Mind-Body Unity'

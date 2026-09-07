@@ -14,7 +14,7 @@ links:
 #  url: http://example.org
 projects:
 - internal-project
-#publication: ""
+publication: 'Under review at *Journal of Experimental Psychology: General*'
 publishDate: "2026-09-02T00:00:00Z"
 summary: 'In a randomized controlled trial of 147 patients recovering from bilateral cataract surgery, patients who absorbed faster expected healing times and attended daily to healing variability recovered visual acuity measurably faster than belief-matched controls, providing the first clinical evidence that attention functions as a belief-weighted mediator between psychological and physiological processes.'
 title: 'Manipulating Temporal Expectations to Accelerate Recovery After Cataract Surgery: A Randomized Controlled Trial'

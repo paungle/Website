@@ -1,5 +1,5 @@
 ---
-abstract: "In response to Gelman and Brown’s recent critique of Aungle and Langer (2023), we argue that their article illustrates how narrow statistical reasoning and selective literature review can misrepresent and undermine credible scientific findings. Using their discussion of perceived time and physical healing as a case study, we identify three general problems: (a) a failure to accurately characterize the methods and results of the study they critique, (b) misinterpretations and omissions in their review of the relevant literature, and (c) a tendency to generalize from isolated statistical issues to sweeping claims about the invalidity of mind-body research. We adopt Gelman and Brown’s recommended model and find that the main effect remains robust. We also document errors in their interpretations of other cited studies and demonstrate that they ignore decades of rigorous, well-replicated research on placebo effects and health mindsets. By examining their critique in detail, we highlight how methodological skepticism, when untethered from accurate reading and balanced appraisal, can mislead rather than clarify."
+abstract: "In response to Gelman and Brown’s recent critique of Aungle and Langer, we argue that their article illustrates how narrow statistical reasoning and selective literature review can misrepresent and undermine credible scientific findings. Using their discussion of perceived time and physical healing as a case study, we identify three general problems: (a) a failure to accurately characterize the methods and results of the study they critiqued, (b) misinterpretations and omissions in their review of the relevant literature, and (c) a tendency to generalize from isolated statistical issues to sweeping claims about the invalidity of mind–body research. We adopt Gelman and Brown’s recommended model and find that the main effect remains robust. We also document errors in their interpretations of other cited studies and demonstrate that they ignore decades of rigorous, well-replicated research on placebo effects and health mindsets. By examining their critique in detail, we highlight how methodological skepticism, when untethered from accurate reading and balanced appraisal, can mislead rather than clarify."
 authors:
 - Peter Aungle, Daniel Chen, and Nicholas Holmes
 date: "2026-01-06"
@@ -14,8 +14,9 @@ image:
 #  url: https://www.scientificamerican.com/article/how-much-do-our-thoughts-shape-our-health/
 projects:
 - internal-project
+publication: '*Advances in Methods and Practices in Psychological Science*'
 publishDate: "2025-01-12T00:00:00Z"
 summary: 'Gelman and Brown’s 2024 critique of our paper on perceived time and physical healing exemplifies how selective reasoning and misrepresentation of methods, literature, and broader research can distort credible mind-body science.'
-title: 'Beyond Statistical Myopia: Replying to a Misguided Critique of Mind-Body Research'
+title: 'Beyond Statistical Myopia: Replying to a Misguided Critique of Mind–Body Research'
 url_pdf: 'https://journals.sagepub.com/doi/pdf/10.1177/25152459261417257'
 ---
